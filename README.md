@@ -15,3 +15,7 @@ cargo run
 ```
 
 Então o código vai compilar e executar em seguida.
+
+### Screenshots
+
+![Imagem do jogo em execução](./images/in-game-image.png)
